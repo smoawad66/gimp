@@ -208,7 +208,7 @@ with right_column:
         
         if st.session_state["processed_image"] is not None:
             buffer = BytesIO()
-            processed_image_pil = Image.fromarray(st.session_state["processed_image"])
+            processed_image_pil = Image.fromarray(st.session_state["processed_image"].astype(np.uint8))
             processed_image_pil.save(buffer, format="PNG")
             st.download_button(
                 label="Save Image",
