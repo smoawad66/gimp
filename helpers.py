@@ -1,5 +1,5 @@
 import numpy as np
-# import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt
 import seaborn as sns
 import cv2
 from math import ceil, log, e, sqrt, pi
