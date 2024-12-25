@@ -6,8 +6,7 @@
 
 <br>
 
-<img src="./images/scr-01.png
-" alt="Group 47"/>
+<img src="https://github.com/user-attachments/assets/b30716b4-967e-4eec-bef2-b729ccf3c0f7" alt="Group 47"/>
 
 <h2>Features</h2>
 <ul>
@@ -22,8 +21,7 @@
 </ul>
 <br>
 
-<img src="./images/scr-02.png
-" alt="Group 47"/>
+<img src="https://github.com/user-attachments/assets/0f58f0a1-0011-4ee5-b744-de4104815567" alt="Group 47"/>
     <i>Example of edge detection</i>
 <br>
 
