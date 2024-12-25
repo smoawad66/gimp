@@ -2,7 +2,7 @@
 <p align="center">
   <img src="./images/logo2.png" width="300px" height="300px" alt="Group 47"/>
 </p>
-<p><a href="gimpol.streamlit.app">Gimp</a> is an image processing application that contains many options to enhance images or extract certain featues from them. It is implemented using python and streamlit library.</p>
+<p><a href="https://gimpol.streamlit.app">Gimp</a> is an image processing application that contains many options to enhance images or extract certain featues from them. It is implemented using python and streamlit library.</p>
 
 <br>
 
