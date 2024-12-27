@@ -312,7 +312,7 @@ def idealFilter(img, d0=3, mode='l'):
     filter = np.zeros((M, N), dtype=float)
     
     for u in range(M):
-        for v in range(M):
+        for v in range(N):
             d = np.sqrt((u-M//2)**2 + (v-N//2)**2)
             if(mode == 'l'):
                 filter[u, v] = 1 if d <= d0 else 0
@@ -331,7 +331,7 @@ def butterworthFilter(img, n=1, d0=3, mode='l'):
     filter = np.zeros((M, N), dtype=float)
     
     for u in range(M):
-        for v in range(M):
+        for v in range(N):
             d = np.sqrt((u-M//2)**2 + (v-N//2)**2)
             d = max(d, 1e-10)
             if(mode == 'l'):
@@ -351,7 +351,7 @@ def gaussianFilter(img, d0=3, mode='l'):
     filter = np.zeros((M, N), dtype=float)
     
     for u in range(M):
-        for v in range(M):
+        for v in range(N):
             d = np.sqrt((u-M//2)**2 + (v-N//2)**2)
             d = max(d, 1e-10)
             if(mode == 'l'):
