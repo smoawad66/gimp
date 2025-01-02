@@ -1,12 +1,12 @@
 <h1>Gimp</h1>
 <p align="center">
-  <img src="./images/logo2.png" width="300px" height="300px" alt="Group 47"/>
+  <img src="images/logo2.png" width="300" height="300"/>
 </p>
 <p><a href="https://gimpol.streamlit.app">Gimp</a> is an image processing application that contains many options to enhance images or extract certain featues from them. It is implemented using python and streamlit library.</p>
 
 <br>
 
-<img src="https://github.com/user-attachments/assets/b30716b4-967e-4eec-bef2-b729ccf3c0f7" alt="Group 47"/>
+<img src="images/01-original.png" width="1440" height="600"/>
 
 <h2>Features</h2>
 <ul>
@@ -21,7 +21,7 @@
 </ul>
 <br>
 
-<img src="https://github.com/user-attachments/assets/0f58f0a1-0011-4ee5-b744-de4104815567" alt="Group 47"/>
+<img src="images/02-edges.png" width="1440" height="600"/>
     <i>Example of edge detection</i>
 <br><br>
 
