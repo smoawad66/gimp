@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="images/01-original.png" width="1440" height="600"/>
+<img src="images/01-original.png"/>
 
 <h2>Features</h2>
 <ul>
@@ -21,7 +21,7 @@
 </ul>
 <br>
 
-<img src="images/02-edges.png" width="1440" height="600"/>
+<img src="images/02-edges.png"/>
     <i>Example of edge detection</i>
 <br><br>
 
